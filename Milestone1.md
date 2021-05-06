@@ -45,7 +45,7 @@ One of the most devastating and infamous oil spills in recent history was the 20
 **Dataset:**
 Note - all datasets collected from Gulf of Mexico Research Initiative Website
    * Bird Health after oil spill : https://data.gulfresearchinitiative.org/data/BP.x750.000:0012 
-       * This dataset includes bird capture, health, and telemetry data from June 2010 through September 2013 along the Guld of Mexico shore as well as Atlantic shorelines.  This dataset includes data from over 900 birds and observations include date, location, species, behavior, ocndition, relocations, recovery information, and more.
+       * This dataset includes bird capture, health, and telemetry data from June 2010 through September 2013 along the Gulf of Mexico shore as well as Atlantic shorelines.  This dataset includes data from over 900 birds and observations include date, location, species, behavior, condition, relocations, recovery information, and more.
    * Oil Content in Sand (2011-2014):https://data.gulfresearchinitiative.org/data/R5.x290.000:0010
        * This dataset references oil and moisture content in sand collected from Gulf of Mexico beaches from 20011 to 2014.  It includes data about percentages of oil content and moisture in sand patties to show variability of content over 6 years.
    * Gulf Fishery Economies: https://data.gulfresearchinitiative.org/data/R6.x808.000:0065
