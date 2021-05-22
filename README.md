@@ -1,2 +1,2 @@
 # final-367-datascience
-final project for data science class
+Data Science Final Project for CISC367
